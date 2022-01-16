@@ -1,4 +1,4 @@
-# ob-app
+# Vue JWT Auth Starter
 
 ## Project setup
 ```
